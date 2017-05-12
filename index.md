@@ -54,6 +54,8 @@ Submissions of shorter papers, including position papers, are welcome.
 
 Papers must be submitted in PDF format using [EasyChair](http://www.easychair.org/conferences/?conf=modref2017).
 
+Please feel free to [get in touch](mailto:ozgur.akgun@st-andrews.ac.uk) to express interest, to have an informal discussion, etc.
+
 All submissions will be reviewed and those that are well-written and make a worthwhile contribution to the topic of the workshop will be accepted for publication in the workshop proceedings.
 The proceedings will be available electronically at CP 2017.
 At least one author of each accepted paper must attend the workshop.
