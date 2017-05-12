@@ -1,4 +1,3 @@
-## ModRef 2017: The Sixteenth International Workshop on Constraint Modelling and Reformulation
 
 Constraint Programming (CP) is a powerful set of techniques to model and solve combinatorial problems, which are ubiquitous in academia and industry.
 
