@@ -1,10 +1,23 @@
 
-Constraint Programming (CP) is a powerful set of techniques to model and solve combinatorial problems, which are ubiquitous in academia and industry.
 
-The last ten years or so have witnessed significant research devoted to modelling and solving problems with constraints.
-CP has been successfully used for tackling a wide range of real-life complex applications, however finding a good model of a given problem often requires considerable expertise and time.
+ModRef 2017 will be the 16th in a [series of workshops on Constraint Modelling and Reformulation](https://www-users.cs.york.ac.uk/~frisch/ModRef/).
 
-The key goals of this workshop are to extend the understanding of constraint modelling, and to automate aspects of modelling or model reformulation to extend the reach of constraint solvers on difficult problems and ease the task of modelling.
+ModRef has always been colocated with the [Constraint Programming (CP) conference](http://www.a4cp.org/events/cp-conference-series) in the past.
+This year CP is colocated with ICLP and SAT, and we are excited to run ModRef in this context!
+
+- [The 23rd International Conference on Principles and Practice of Constraint Programming](http://sat2017.gitlab.io/)
+- [The 33rd International Conference on Logic Programming](http://iclp17.a4lp.org/)
+- [The 20th International Conference on Theory and Applications of Satisfiability Testing](http://cp2017.a4cp.org/)
+
+
+Recent years have witnessed significant research devoted to modelling and solving problems with constraints.
+The importance of modelling and model reformulation is widely recognised.
+There have been developments in systematic and automated ways of improving aspects of modelling and model reformulation.
+Tools and techniques which provide the ability of targeting multiple kinds of solvers were also developed.
+
+The key goals of this workshop are
+to extend the understanding of constraint modelling, and
+to automate aspects of modelling or model reformulation to extend the reach of constraint solvers on difficult problems and ease the task of modelling.
 We solicit original papers that contribute to either or both of these goals.
 
 Workshop topics include:
@@ -13,7 +26,9 @@ Workshop topics include:
 - Contributions to understanding modelling that could guide the manual or automatic formulation of models;
 - Identification of the criteria that should be used in evaluating models and the design of pragmatic techniques that facilitate the choice and possibly combination among alternative models;
 - Design of higher-level modelling languages;
-- Automatic reformulation techniques.
+- Automatic reformulation techniques;
+- Techniques which allow automatically targeting multiple kinds of solvers from a single high-level model.
+
 
 ## Important Dates
 
