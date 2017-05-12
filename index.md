@@ -27,7 +27,7 @@ Workshop topics include:
 - Identification of the criteria that should be used in evaluating models and the design of pragmatic techniques that facilitate the choice and possibly combination among alternative models;
 - Design of higher-level modelling languages;
 - Automatic reformulation techniques;
-- Techniques which allow automatically targeting multiple kinds of solvers from a single high-level model.
+- Techniques which allow automatically targeting multiple kinds of solvers from a single declarative model.
 
 
 ## Important Dates
