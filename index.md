@@ -32,10 +32,10 @@ Workshop topics include:
 
 ## Important Dates
 
-| Submission date                      | June 0th, 2017 |
-| Notification of acceptance/rejection | June 0th, 2017 |
-| Camera ready version                 | June 0th, 2017 |
-| Workshop day                         | June 0th, 2017 |
+| Submission date                      | July 2nd, 2017   |
+| Notification of acceptance/rejection | August 6th, 2017 |
+| Camera ready version                 | August 20th, 2017 |
+| Workshop day                         | August 28th, 2017 |
 
 
 <!-- ## Schedule -->
