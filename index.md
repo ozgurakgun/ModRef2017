@@ -52,7 +52,7 @@ To be announced.
 Submissions must be formatted in the Lecture Notes in Computer Science (LNCS) style and must be within 15 pages excluding references.
 Submissions of shorter papers, including position papers, are welcome.
 
-Papers must be submitted in PDF format using EasyChair.
+Papers must be submitted in PDF format using [EasyChair](http://www.easychair.org/conferences/?conf=modref2017).
 
 All submissions will be reviewed and those that are well-written and make a worthwhile contribution to the topic of the workshop will be accepted for publication in the workshop proceedings.
 The proceedings will be available electronically at CP 2017.
