@@ -44,7 +44,7 @@ Workshop topics include:
 
 To be announced.
 
-<!-- | Özgür Akgün (Chair) | University of St Andrews | -->
+| Özgür Akgün (Chair) | University of St Andrews |
 
 
 ## Submission
