@@ -42,9 +42,13 @@ Workshop topics include:
 
 ## Program Committee
 
-To be announced.
 
 | Özgür Akgün (Chair) | University of St Andrews |
+| Alan Frisch         | University of York       |
+| Serdar Kadioglu     | Oracle                   |
+| Jean-Noël Monette   | Tacton                   |
+
+More PC members will be announced.
 
 
 ## Submission
