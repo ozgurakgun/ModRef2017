@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## ModRef 2017: The Sixteenth International Workshop on Constraint Modelling and Reformulation
 
-You can use the [editor on GitHub](https://github.com/ozgurakgun/ModRef2017/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Constraint Programming (CP) is a powerful set of techniques to model and solve combinatorial problems, which are ubiquitous in academia and industry.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The last ten years or so have witnessed significant research devoted to modelling and solving problems with constraints.
+CP has been successfully used for tackling a wide range of real-life complex applications, however finding a good model of a given problem often requires considerable expertise and time.
 
-### Markdown
+The key goals of this workshop are to extend the understanding of constraint modelling, and to automate aspects of modelling or model reformulation to extend the reach of constraint solvers on difficult problems and ease the task of modelling.
+We solicit original papers that contribute to either or both of these goals.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Workshop topics include:
 
-```markdown
-Syntax highlighted code block
+- Application papers describing interesting problems and interesting ways to model them;
+- Contributions to understanding modelling that could guide the manual or automatic formulation of models;
+- Identification of the criteria that should be used in evaluating models and the design of pragmatic techniques that facilitate the choice and possibly combination among alternative models;
+- Design of higher-level modelling languages;
+- Automatic reformulation techniques.
 
-# Header 1
-## Header 2
-### Header 3
+## Important Dates
 
-- Bulleted
-- List
+| Submission date                      | June 0th, 2017 |
+| Notification of acceptance/rejection | June 0th, 2017 |
+| Camera ready version                 | June 0th, 2017 |
+| Workshop day                         | June 0th, 2017 |
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<!-- ## Schedule -->
 
-[Link](url) and ![Image](src)
-```
+## Program Committee
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To be announced.
 
-### Jekyll Themes
+<!-- | Özgür Akgün (Chair) | University of St Andrews | -->
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ozgurakgun/ModRef2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Submission
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Submissions must be formatted in the Lecture Notes in Computer Science (LNCS) style and must be within 15 pages excluding references.
+Submissions of shorter papers, including position papers, are welcome.
+
+Papers must be submitted in PDF format using EasyChair.
+
+All submissions will be reviewed and those that are well-written and make a worthwhile contribution to the topic of the workshop will be accepted for publication in the workshop proceedings.
+The proceedings will be available electronically at CP 2017.
+At least one author of each accepted paper must attend the workshop.
+Please note that every workshop participant needs to be registered for the workshop.
+
+Past events of this workshop series can be found [here](https://www-users.cs.york.ac.uk/~frisch/ModRef/).
+
