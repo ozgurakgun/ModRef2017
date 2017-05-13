@@ -47,6 +47,7 @@ Workshop topics include:
 | Alan Frisch         | University of York       |
 | Serdar Kadioglu     | Oracle                   |
 | Jean-Noël Monette   | Tacton                   |
+| Mateu Villaret      | University of Girona     |
 
 More PC members will be announced.
 
