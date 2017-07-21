@@ -2,8 +2,8 @@
 
 ModRef 2017 will be the 16th in a [series of workshops on Constraint Modelling and Reformulation](https://www-users.cs.york.ac.uk/~frisch/ModRef/).
 
-ModRef has always been colocated with the [Constraint Programming (CP) conference](http://www.a4cp.org/events/cp-conference-series) in the past.
-This year CP is colocated with ICLP and SAT, and we are excited to run ModRef in this context!
+ModRef has always been co-located with the [Constraint Programming (CP) conference](http://www.a4cp.org/events/cp-conference-series) in the past.
+This year CP is co-located with ICLP and SAT, and we are excited to run ModRef in this context!
 
 - [The 23rd International Conference on Principles and Practice of Constraint Programming](http://sat2017.gitlab.io/)
 - [The 33rd International Conference on Logic Programming](http://iclp17.a4lp.org/)
@@ -13,10 +13,10 @@ This year CP is colocated with ICLP and SAT, and we are excited to run ModRef in
 Recent years have witnessed significant research devoted to modelling and solving problems with constraints.
 The importance of modelling and model reformulation is widely recognised.
 There have been developments in systematic and automated ways of improving aspects of modelling and model reformulation.
-Tools and techniques which provide the ability of targeting multiple kinds of solvers were also developed.
+Tools and techniques which provide the ability to target multiple kinds of solvers were also developed.
 
 The key goals of this workshop are
-to extend the understanding of constraint modelling, and
+to extend the understanding of constraint modelling and
 to automate aspects of modelling or model reformulation to extend the reach of constraint solvers on difficult problems and ease the task of modelling.
 We solicit original papers that contribute to either or both of these goals.
 
@@ -24,7 +24,7 @@ Workshop topics include:
 
 - Application papers describing interesting problems and interesting ways to model them;
 - Contributions to understanding modelling that could guide the manual or automatic formulation of models;
-- Identification of the criteria that should be used in evaluating models and the design of pragmatic techniques that facilitate the choice and possibly combination among alternative models;
+- Identification of the criteria that should be used in evaluating models and the design of pragmatic techniques that facilitate the choice and possible combination among alternative models;
 - Design of higher-level modelling languages;
 - Automatic reformulation techniques;
 - Techniques which allow automatically targeting multiple kinds of solvers from a single declarative model.
@@ -34,7 +34,7 @@ Workshop topics include:
 
 This year ModRef will include presentations that are not based on submitted papers.
 
-In addition to presentation of research results, we especially welcome talks describing ongoing work, recent breakthroughs, future directions, and descriptions of interesting aspects of existing systems. It will be a lightweight submission: we only ask for a title and an abstract to be used in the program.
+In addition to the presentation of research results, we especially welcome talks describing ongoing work, recent breakthroughs, future directions, and descriptions of interesting aspects of existing systems. It will be a lightweight submission: we only ask for a title and an abstract to be used in the program.
 
 Please submit your title and abstract in PDF format using [EasyChair](http://www.easychair.org/conferences/?conf=modref2017). Submissions will be reviewed promptly for appropriateness.
 
