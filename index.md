@@ -30,38 +30,16 @@ Workshop topics include:
 - Techniques which allow automatically targeting multiple kinds of solvers from a single declarative model.
 
 
-## Important Dates
+## Call for Presentations (Deadline 31 July 2017)
 
-| Submission date                      | <strike>July 2nd, 2017</strike> July 31st, 2017  |
-| Notification of acceptance/rejection | August 6th, 2017 |
-| Camera ready version                 | August 20th, 2017 |
-| Workshop day                         | August 28th, 2017 |
+This year ModRef will include presentations that are not based on submitted papers.
 
+In addition to presentation of research results, we especially welcome talks describing ongoing work, recent breakthroughs, future directions, and descriptions of interesting aspects of existing systems. It will be a lightweight submission: we only ask for a title and an abstract to be used in the program.
 
-## Call for Presentations
-
-We would like to invite presentations for this years ModRef. We welcome talks describing ongoing work.
-
-We especially welcome talks describing ongoing work, recent breakthroughs, future directions, and descriptions of interesting aspects of existing systems. Please [get in touch](mailto:ozgur.akgun@st-andrews.ac.uk) if you would like to offer a presentation. It will be a lightweight submission: we only ask for a title and an abstract to be used in the program.
-
-Please submit your title and abstract in PDF format using [EasyChair](http://www.easychair.org/conferences/?conf=modref2017). Submissions will be reviewed for relevance.
+Please submit your title and abstract in PDF format using [EasyChair](http://www.easychair.org/conferences/?conf=modref2017). Submissions will be reviewed promptly for appropriateness.
 
 
-<!-- ## Schedule -->
-
-## Program Committee
-
-
-| Özgür Akgün (Chair) | University of St Andrews |
-| Alan Frisch         | University of York       |
-| Serdar Kadioglu     | Oracle                   |
-| Jean-Noël Monette   | Tacton                   |
-| Mateu Villaret      | University of Girona     |
-
-<!-- More PC members will be announced. -->
-
-
-## Submission
+## Call for Papers ( Deadline: 31 July 2017)
 
 Submissions must be formatted in the Lecture Notes in Computer Science (LNCS) style and must be within 15 pages excluding references.
 Submissions of shorter papers, including position papers, are welcome.
@@ -77,3 +55,21 @@ Please note that every workshop participant needs to be registered for the works
 
 Past events of this workshop series can be found [here](https://www-users.cs.york.ac.uk/~frisch/ModRef/).
 
+
+## Important Dates
+
+| Submission date                      | <strike>July 2nd, 2017</strike> July 31st, 2017  |
+| Notification of acceptance/rejection | August 6th, 2017 |
+| Camera ready version                 | August 20th, 2017 |
+| Workshop day                         | August 28th, 2017 |
+
+
+## Program Committee
+
+
+| Özgür Akgün (Chair)           | University of St Andrews |
+| Alan Frisch (Chair)           | University of York       |
+| Kevin Leo (Local organiser)   | Monash University        |
+| Serdar Kadioglu               | Oracle                   |
+| Jean-Noël Monette             | Tacton                   |
+| Mateu Villaret                | University of Girona     |
