@@ -30,7 +30,7 @@ Workshop topics include:
 - Techniques which allow automatically targeting multiple kinds of solvers from a single declarative model.
 
 
-## Call for Presentations (Deadline 31 July 2017)
+## Call for Presentations (Deadline: 31 July 2017)
 
 This year ModRef will include presentations that are not based on submitted papers.
 
