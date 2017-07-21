@@ -38,6 +38,15 @@ Workshop topics include:
 | Workshop day                         | August 28th, 2017 |
 
 
+## Call for Presentations
+
+We would like to invite presentations for this years ModRef. We welcome talks describing ongoing work.
+
+We especially welcome talks describing ongoing work, recent breakthroughs, future directions, and descriptions of interesting aspects of existing systems. Please [get in touch](mailto:ozgur.akgun@st-andrews.ac.uk) if you would like to offer a presentation. It will be a lightweight submission: we only ask for a title and an abstract to be used in the program.
+
+Please submit your title and abstract in PDF format using [EasyChair](http://www.easychair.org/conferences/?conf=modref2017). Submissions will be reviewed for relevance.
+
+
 <!-- ## Schedule -->
 
 ## Program Committee
@@ -49,7 +58,7 @@ Workshop topics include:
 | Jean-Noël Monette   | Tacton                   |
 | Mateu Villaret      | University of Girona     |
 
-More PC members will be announced.
+<!-- More PC members will be announced. -->
 
 
 ## Submission
