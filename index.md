@@ -39,7 +39,7 @@ In addition to presentation of research results, we especially welcome talks des
 Please submit your title and abstract in PDF format using [EasyChair](http://www.easychair.org/conferences/?conf=modref2017). Submissions will be reviewed promptly for appropriateness.
 
 
-## Call for Papers ( Deadline: 31 July 2017)
+## Call for Papers (Deadline: 31 July 2017)
 
 Submissions must be formatted in the Lecture Notes in Computer Science (LNCS) style and must be within 15 pages excluding references.
 Submissions of shorter papers, including position papers, are welcome.
