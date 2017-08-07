@@ -64,6 +64,21 @@ Past events of this workshop series can be found [here](https://www-users.cs.yor
 | Workshop day                         | August 28th, 2017 |
 
 
+## Accepted Papers & Presentations
+
+The following is a list of accepted papers and presentations.
+Abstracts and papers (where available) will be added after the camera ready submission deadline (August 20th, 2017).
+
+| Title | Authors |   |
+| ----- | ------- | - |
+| Jessica Enright, Christopher Jefferson, David Manlove, Ciaran McCreesh, Patrick Prosser, Simon Rogers and James Trimble. | Modelling and Optimisation with Graphs | (Presentation only) |
+| Kenneth Young. | A Logic-Based Benders Decomposition of an Assembly Line Balancing and Scheduling Problem | (Presentation only) |
+| David Mitchell. | A Logical View of Constraint Modelling and Reformulation | (Presentation only) |
+| Thibaut Feydy, Adrian Goldwaser, Andreas Schutt, Peter J. Stuckey and Kenneth Young. | Priority Search with MiniZinc | |
+| Carleton Coffrin, Siqi Liu, Peter J. Stuckey and Guido Tack. | Solution Checking with MiniZinc | |
+| Masoumeh Vali and Khodakaram Salimifard. | A Constraint Programming Approach for Solving Multiple Traveling Salesman Problem | |
+
+
 ## Program Committee
 
 
