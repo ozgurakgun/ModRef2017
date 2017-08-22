@@ -93,13 +93,13 @@ Abstracts and papers (where available) will be added after the camera ready subm
 ## Timetable
 
 | 13:30 | Session Chair’s Welcome: Kevin Leo |
-| 13:35 | Invited Talk: Peter Stuckey <br> Ten Years of MiniZinc |
-| 14:20 | Contributed Paper: Thibaut Feydy, Adrian Goldwaser, Andreas Schutt, Peter J. Stuckey and Kenneth Young <br> Priority Search with MiniZinc |
-| 14:50 | Short Talk: Jessica Enright, Christopher Jefferson, David Manlove, Ciaran McCreesh, Patrick Prosser, Simon Rogers and James Trimble <br> Modelling and Optimisation with Graphs |
-| 15:10 | Short Talk: Kenneth Young <br> A Logic-Based Benders Decomposition of an Assembly Line Balancing and Scheduling Problem |
+| 13:35 | Invited Talk: Peter Stuckey <br> **Ten Years of MiniZinc** |
+| 14:20 | Contributed Paper: Thibaut Feydy, Adrian Goldwaser, Andreas Schutt, Peter J. Stuckey and Kenneth Young <br> **Priority Search with MiniZinc** |
+| 14:50 | Short Talk: Jessica Enright, Christopher Jefferson, David Manlove, Ciaran McCreesh, Patrick Prosser, Simon Rogers and James Trimble <br> **Modelling and Optimisation with Graphs** |
+| 15:10 | Short Talk: Kenneth Young <br> **A Logic-Based Benders Decomposition of an Assembly Line Balancing and Scheduling Problem** |
 | 15:30 | Coffee Break |
-| 16:00 | Invited Talk: David Mitchell <br> A Logical View of Constraint Modelling and Reformulation |
-| 16:35 | Contributed Paper: Carleton Coffrin, Siqi Liu, Peter J. Stuckey and Guido Tack <br> Solution Checking with MiniZinc |
-| 17:05 | Short Talk: Miquel Bofill <br> Towards Compact SMT Encodings for Numeric Planning |
-| 17:25 | Contributed Paper: Masoumeh Vali and Khodakaram Salimifard <br> A Constraint Programming Approach for Solving Multiple Traveling Salesman Problem |
+| 16:00 | Invited Talk: David Mitchell <br> **A Logical View of Constraint Modelling and Reformulation** |
+| 16:35 | Contributed Paper: Carleton Coffrin, Siqi Liu, Peter J. Stuckey and Guido Tack <br> **Solution Checking with MiniZinc** |
+| 17:05 | Short Talk: Miquel Bofill <br> **Towards Compact SMT Encodings for Numeric Planning** |
+| 17:25 | Contributed Paper: Masoumeh Vali and Khodakaram Salimifard <br> **A Constraint Programming Approach for Solving Multiple Traveling Salesman Problem** |
 | 17:55 | End |
