@@ -78,13 +78,13 @@ Past events of this workshop series can be found [here](https://www-users.cs.yor
 ## Timetable
 
 | 13:30 | Session Chair’s Welcome: Kevin Leo |
-| 13:35 | Invited Talk: Peter Stuckey <br> **Ten Years of MiniZinc** |
-| 14:20 | Contributed Paper: Thibaut Feydy, Adrian Goldwaser, Andreas Schutt, Peter J. Stuckey and Kenneth Young <br> **Priority Search with MiniZinc** |
-| 14:50 | Short Talk: Jessica Enright, Christopher Jefferson, David Manlove, Ciaran McCreesh, Patrick Prosser, Simon Rogers and James Trimble <br> **Modelling and Optimisation with Graphs** |
-| 15:10 | Short Talk: Kenneth Young <br> **A Logic-Based Benders Decomposition of an Assembly Line Balancing and Scheduling Problem** |
+| 13:35 | Invited Talk: Peter Stuckey <br> **Ten Years of MiniZinc** ([Abstract](files/ModRef2017_Stuckey.txt)) |
+| 14:20 | Contributed Paper: Thibaut Feydy, Adrian Goldwaser, Andreas Schutt, Peter J. Stuckey and Kenneth Young <br> **Priority Search with MiniZinc** ([Paper](files/ModRef2017_PrioritySearchWithMiniZinc.pdf)) |
+| 14:50 | Short Talk: Jessica Enright, Christopher Jefferson, David Manlove, Ciaran McCreesh, Patrick Prosser, Simon Rogers and James Trimble <br> **Modelling and Optimisation with Graphs** ([Abstract](files/ModRef2017_ModellingWithGraphs.pdf)) |
+| 15:10 | Short Talk: Kenneth Young <br> **A Logic-Based Benders Decomposition of an Assembly Line Balancing and Scheduling Problem** ([Abstract](files/ModRef2017_Young.pdf))|
 | 15:30 | Coffee Break |
-| 16:00 | Invited Talk: David Mitchell <br> **A Logical View of Constraint Modelling and Reformulation** |
-| 16:35 | Contributed Paper: Carleton Coffrin, Siqi Liu, Peter J. Stuckey and Guido Tack <br> **Solution Checking with MiniZinc** |
-| 17:05 | Short Talk: Miquel Bofill <br> **Towards Compact SMT Encodings for Numeric Planning** |
-| 17:25 | Contributed Paper: Masoumeh Vali and Khodakaram Salimifard <br> **A Constraint Programming Approach for Solving Multiple Traveling Salesman Problem** |
+| 16:00 | Invited Talk: David Mitchell <br> **A Logical View of Constraint Modelling and Reformulation** ([Abstract](files/ModRef2017_Mitchell.pdf)) |
+| 16:35 | Contributed Paper: Carleton Coffrin, Siqi Liu, Peter J. Stuckey and Guido Tack <br> **Solution Checking with MiniZinc** ([Paper](files/ModRef2017_SolutionCheckingWithMinizinc.pdf)) |
+| 17:05 | Short Talk: Miquel Bofill <br> **Towards Compact SMT Encodings for Numeric Planning** ([Abstract](files/ModRef2017_Bofill.txt)) |
+| 17:25 | Contributed Paper: Masoumeh Vali and Khodakaram Salimifard <br> **A Constraint Programming Approach for Solving Multiple Traveling Salesman Problem** ([Paper](files/ModRef2017_MTSP.pdf)) |
 | 17:55 | End |
