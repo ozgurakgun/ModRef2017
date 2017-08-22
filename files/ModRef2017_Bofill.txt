@@ -1,0 +1,3 @@
+Title: Towards Compact SMT Encodings for Numeric Planning
+
+In this talk we will give an overview of Planning as Satisfiability, with special emphasis on parallel plans and interference checking. We will also highlight some recent works in the context of numeric planning, that go in the direction of obtaining compact encodings for solving the planning problem by reduction to SMT.

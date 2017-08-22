@@ -1,0 +1,3 @@
+Title: Ten years of MiniZinc
+
+MiniZinc debuted in the CP 2007 paper "Minizinc: Towards a standard CP modelling language” so CP2017 represents its 10th anniversary.  This talk will outline the development history of MiniZinc, and the reasons why various features were added.  It will try to reflect on the strengths and weaknesses of MiniZinc, and finally lay out the future plans for MiniZinc.
