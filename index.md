@@ -78,7 +78,7 @@ Past events of this workshop series can be found [here](https://www-users.cs.yor
 ## Timetable
 
 | 13:30 | Session Chair’s Welcome: Kevin Leo |
-| 13:35 | Invited Talk: Peter Stuckey <br> **Ten Years of MiniZinc** ([Abstract](files/ModRef2017_Stuckey.txt)) |
+| 13:35 | Invited Talk: Peter Stuckey <br> **Ten Years of MiniZinc** ([Abstract](files/ModRef2017_Stuckey.txt), [Slides](files/TenYearsOfMiniZinc.pdf)) |
 | 14:20 | Contributed Paper: Thibaut Feydy, Adrian Goldwaser, Andreas Schutt, Peter J. Stuckey and Kenneth Young <br> **Priority Search with MiniZinc** ([Paper](files/ModRef2017_PrioritySearchWithMiniZinc.pdf)) |
 | 14:50 | Short Talk: Jessica Enright, Christopher Jefferson, David Manlove, Ciaran McCreesh, Patrick Prosser, Simon Rogers and James Trimble <br> **Modelling and Optimisation with Graphs** ([Abstract](files/ModRef2017_ModellingWithGraphs.pdf)) |
 | 15:10 | Short Talk: Kenneth Young <br> **A Logic-Based Benders Decomposition of an Assembly Line Balancing and Scheduling Problem** ([Abstract](files/ModRef2017_Young.pdf))|
